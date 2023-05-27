@@ -170,7 +170,7 @@ public:
     //search by function
 	string call_by_number(string val) {
 		string test;
-		waqt w;
+		w_time w;
 		bool flag1 = false;
 		node* temp = head;
 
